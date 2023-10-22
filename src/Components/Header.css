@@ -1,0 +1,19 @@
+#name{
+    color:rgb(5, 50, 90);
+}
+#com{
+    border:1px solid black;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.center-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+  }
+head{
+    background-color: aqua; /* Adjust the path to your image */
+
+  }
+  
+
